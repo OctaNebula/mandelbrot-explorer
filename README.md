@@ -5,7 +5,7 @@ Huge thanks to [Danyaal Rangwala](https://github.com/danyaal) for a very easy to
 
 # Usage
 
-To run the webapp, simply run the following command in the terminal:
+To run the webapp, simply run the following command in your terminal:
 
 ```bash
 streamlit run main.py
